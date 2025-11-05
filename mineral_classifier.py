@@ -486,7 +486,7 @@ def main():
     AOI_CENTER_LON = 128.82889
     AOI_DIAMETER_KM = 30
 
-    OUTPUT_DIR = 'outputs'
+    OUTPUT_DIR = '/Users/jeremy/Desktop/ff3-1101/'
 
     print("="*80)
     print("HYPERSPECTRAL MINERAL CLASSIFICATION AND ABUNDANCE MAPPING")
